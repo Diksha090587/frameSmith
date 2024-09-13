@@ -1,7 +1,7 @@
 {
     "product": "Polkadot",
 
-    "openai_model": "gpt-3.5-turbo",
+    "openai_model": "gpt-4.o-turbo",
 
     "news_urls": [https://polkadot.network/"
     "https://polkadot.network/",
