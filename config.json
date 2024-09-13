@@ -1,19 +1,34 @@
 {
-    "product": "Asimov",
+    "product": "APolkadot",
 
     "openai_model": "gpt-3.5-turbo",
 
-    "news_urls": ["https://a16z.com/2017/12/19/asimov/",
-    "https://www.asimov.com/news/asimov-raises-200-million-to-advance-therapeutics-design-and-manufacturing-with-synthetic-biology",
-    "https://www.asimov.com/news/asimov-labs",
-    "https://www.asimov.com/news/github",
-    "https://www.asimov.com/news/aav-foundations",
-    "https://www.asimov.com/news/ai-promoters",
-    "https://techcrunch.com/2017/12/19/bio-programming-toolkit-maker-asimov-launches-with-4-5m-from-andreessen-horowitz/"],
+    "news_urls": [https://polkadot.network/",
+    "https://polkadot.network/",
+    "https://polkadot.network/blog/",
+    "https://wiki.polkadot.network/",
+    "https://www.reddit.com/r/Polkadot/",
+    "https://t.me/PolkadotOfficial/",
+    "https://polkadot.js.org/apps/",
+    "https:// https://twitter.com/Polkadot/",
+    "https://www. https://www.coindesk.com/",
+    "https:// https://www.theblock.co/",
+    "https://https://www.reddit.com/r/Polkadot/",
+    "https://https://polkadot.subscan.io/",
+    "https://https://dotmarketcap.com/"
+    "https://decrypt.co/,
+    "https://decrypt.co/",
+    "https://ambcrypto.com/",
+  "https://www.newsbtc.com/",
+    "https://news.bitcoin.com/",
+    "https://u.today/",]
 
-    "youtube_urls": ["https://www.youtube.com/watch?v=F8dIrX3VZyE",
-    "https://www.youtube.com/watch?v=Cz_MRRk-DQo",
-    "https://www.youtube.com/watch?v=I6L2uscsQgE"],
+    "youtube_urls": [
+    "https://www.youtube.com/@TheKusamarian,https://podcasts.apple.com/us/podcast/inside-the-polkadot-network-and-ecosystem/id1460134454?i=1000531212131",
+    "https://www.youtube.com/shorts/Rf53g9boRro/"
+        "https://www.youtube.com/watch?v=uv176LXoGeE&pp=ygUQcG9sa2Fkb3Qgd2ViIDMuMA%3D%3D/"
+        "https://www.youtube.com/watch?v=EMEFwwNNo8A&pp=ygUQcG9sa2Fkb3Qgd2ViIDMuMA%3D%3D/"    "https://u.today/",]
+        
 
     "prompt_template": "You are a research chatbot having a conversation with a human.\n\nGiven the following information about {product}, give a professional and detailed answer to the final question.\n\n{context}\n\n{chat_history}\nHuman: {human_input}\nChatbot:",
 
@@ -27,6 +42,7 @@
       "channels": "Which channels does {product} use to reach its target users? Channels include where {product} is marketed to its potential users and where users access {product} (e.g. mobile app, website, etc.). If this information wasn't provided, list some plausible channels for {product}.",
       "costs": "What operating costs are incurred by {product} during development, launch, and maintainance. If this information wasn't provided, list some plausible operating costs.",
       "revenue": "How does {product} generate revenue? Give a description of plausible business models and revenue streams for {product}."
+        
       }
     
   }
