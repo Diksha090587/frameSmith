@@ -27,7 +27,7 @@
     "https://www.youtube.com/@TheKusamarian,https://podcasts.apple.com/us/podcast/inside-the-polkadot-network-and-ecosystem/id1460134454?i=1000531212131",
     "https://www.youtube.com/shorts/Rf53g9boRro/"
         "https://www.youtube.com/watch?v=uv176LXoGeE&pp=ygUQcG9sa2Fkb3Qgd2ViIDMuMA%3D%3D/"
-        "https://www.youtube.com/watch?v=EMEFwwNNo8A&pp=ygUQcG9sa2Fkb3Qgd2ViIDMuMA%3D%3D/"    "https://u.today/",]
+        "https://www.youtube.com/watch?v=EMEFwwNNo8A&pp=ygUQcG9sa2Fkb3Qgd2ViIDMuMA%3D%3D/"    "https://u.today/"]
         
 
     "prompt_template": "You are a research chatbot having a conversation with a human.\n\nGiven the following information about {product}, give a professional and detailed answer to the final question.\n\n{context}\n\n{chat_history}\nHuman: {human_input}\nChatbot:",
